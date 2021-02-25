@@ -1,0 +1,10 @@
+Thank you for using Anno!
+
+Here are a list of commands you can use to have me take care of your annoucments!
+
+-?schedule: Adds an announcment to the queue
+-?commandlist: Lists comprehensive list of commands
+-?forcesend: Sends the next queued announcment immeadiatly and removes from queue
+-?halt: Pauses the announcment queue
+-?continue: Continues the announcment queue
+-?clear: Clears the queue
